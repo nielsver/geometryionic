@@ -1,0 +1,7 @@
+{
+  "name": "projectcross",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
